@@ -199,6 +199,12 @@ A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Sci
 * understanding depression (esp. for ones who never experienced it)
 * text-based game
 
+#### Vax
+
+* [http://vax.herokuapp.com/game](http://vax.herokuapp.com/game)
+* Demonstrating the effects of vaccines on herd-immunity
+* web-based interactive game
+
 
 ### Mathematics
 
